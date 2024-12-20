@@ -1,24 +1,43 @@
-Types of Programming Languages in the Software Industry
+# **Types of Programming Languages in the Software Industry**
+
 Programming languages are grouped into three main types:
 
-1. Structured Programming Languages
-   These languages use logical constructs like loops, conditions, and functions to organize code. However, they do not support Object-Oriented Programming (OOP) features like classes, objects, or inheritance.
+---
 
-Examples: C, Pascal.
+## 1. **Structured Programming Languages**
 
-2. Object-Oriented Programming (OOP) Languages
-   These languages revolve around "objects" that combine data and actions. They support features like:
+Structured programming languages organize code using logical constructs like loops, conditions, and functions. However, they do not support Object-Oriented Programming (OOP) features such as classes, objects, or inheritance.
 
-Classes and Objects: Basic units of OOP.
-Inheritance: Sharing features from one class to another.
-Polymorphism: One action behaving differently in various contexts.
-Data Abstraction: Showing only important details, hiding the rest.
-Encapsulation: Grouping data and methods together and limiting access.
-Examples: Java, C++, Python.
+### Examples:
 
-3. Object-Based Programming Languages
-   These languages use objects but lack full OOP features like inheritance or polymorphism. They offer simpler ways to work with data and objects.
+- C
+- Pascal
 
-Examples: JavaScript (before ES6), VBScript.
+---
 
+## 2. **Object-Oriented Programming (OOP) Languages**
 
+OOP languages revolve around "objects" that combine data and actions. They include features such as:
+
+- **Classes and Objects**: Fundamental units of OOP.
+- **Inheritance**: Sharing properties and methods from one class to another.
+- **Polymorphism**: Allowing one action to behave differently depending on the context.
+- **Data Abstraction**: Displaying only the necessary details while hiding the implementation.
+- **Encapsulation**: Bundling data and methods together and restricting direct access.
+
+### Examples:
+
+- Java
+- C++
+- Python
+
+---
+
+## 3. **Object-Based Programming Languages**
+
+Object-based programming languages use objects but lack full OOP features like inheritance or polymorphism. They provide simpler ways to manipulate data and objects.
+
+### Examples:
+
+- JavaScript (before ES6)
+- VBScript
