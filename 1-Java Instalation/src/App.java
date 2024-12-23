@@ -13,6 +13,7 @@ class DataTypes{
 
 //    Declaring variables for each data type.
 
+        byte by = 1;
         int num = 9;
         float temp = 36.5f;
         double dug = 24.56;
