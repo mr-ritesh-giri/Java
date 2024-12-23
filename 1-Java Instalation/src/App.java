@@ -13,11 +13,11 @@ class DataTypes{
 
 //    Declaring variables for each data type.
 
-        int num = 10;
-        float temp = 36.34f;
-        long moonDistance = 4383084390843098L;
-        double dug = 3.1434343;
-        char car = 'K';
+        int num = 9;
+        float temp = 36.5f;
+        double dug = 24.56;
+        long moonDistance = 483489038409L;
+        char car ='C';
         String name = "Ritesh";
         boolean isPresent = true;
 
