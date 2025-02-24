@@ -9,7 +9,8 @@ class DataTypes{
 
         double calc = 2 * 3.14 * radius;
 
-//        System.out.println(calc);
+        System.out.println(calc);
+        System.out.println("Hello world");
 
 //    Declaring variables for each data type.
 
@@ -21,7 +22,7 @@ class DataTypes{
         char car ='C';
         String name = "Ritesh";
         boolean isPresent = true;
-
+        boolean isAbsent = false;
 
         // Printing values
         System.out.println("Number: " + num);

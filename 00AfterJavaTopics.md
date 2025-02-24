@@ -1,0 +1,3 @@
+Exponent
+Mantissa
+Precision
