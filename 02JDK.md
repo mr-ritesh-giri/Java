@@ -18,7 +18,7 @@ public static void main(String[] args) {
 }
 ```
 
-# **JVM, JRE, and JDK**
+# **JDK, JRE, and JVM**
 
 ## **JDK (Java Development Kit)**
 
@@ -28,13 +28,6 @@ The **Java Development Kit (JDK)** is a complete package for Java developers. It
 - **Compiler (`javac`)**: The tool used to compile Java source code into bytecode.
 - **Debugger**: A tool to debug Java applications.
 - **Development Tools**: Tools like documentation generators, profilers, and other utilities for developers.
-
-### JDK Includes:
-
-- **JRE** (with JVM)
-- **Java Compiler (`javac`)**
-- **Java Debugger (`jdb`)**
-- **Other tools** like `javadoc` and `jar`
 
 ### **Process in JDK:**
 1. A Java program (`.java` file) is written.

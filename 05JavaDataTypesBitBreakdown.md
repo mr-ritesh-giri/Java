@@ -90,13 +90,13 @@ Java provides various primitive data types for working with different kinds of d
 ## Summary Table of Java Primitive Data Types:
 
 || **Data Type** | **Size (bits)** | **Range**                                      | **Description**                   |
-|---------------|-----------------|------------------------------------------------|-----------------------------------|
-| **byte**      | 8               | -128 to 127                                    | 8-bit signed integer              |
-| **short**     | 16              | -32,768 to 32,767                              | 16-bit signed integer             |
-| **int**       | 32              | -2^31 to 2^31 - 1                              | 32-bit signed integer             |
-| **long**      | 64              | -2^63 to 2^63 - 1                              | 64-bit signed integer             |
-| **float**     | 32              | ±3.40282347E+38F (7 digits precision)          | 32-bit single precision float     |
-| **double**    | 64              | ±1.7976931348623157E+308 (15–17 digits)        | 64-bit double precision float     |
-| **char**      | 16              | 0 to 65,535 (unsigned)                         | 16-bit Unicode character          |
-| **boolean**   | 1               | `true` or `false`                              | Represents a boolean value        |
+|----------------|-----------------|------------------------------------------------|-----------------------------------|
+| **byte**       | 8               | -128 to 127                                    | 8-bit signed integer              |
+| **short**      | 16              | -32,768 to 32,767                              | 16-bit signed integer             |
+| **int**        | 32              | -2^31 to 2^31 - 1                              | 32-bit signed integer             |
+| **long**       | 64              | -2^63 to 2^63 - 1                              | 64-bit signed integer             |
+| **float**      | 32              | ±3.40282347E+38F (7 digits precision)          | 32-bit single precision float     |
+| **double**     | 64              | ±1.7976931348623157E+308 (15–17 digits)        | 64-bit double precision float     |
+| **char**       | 16              | 0 to 65,535 (unsigned)                         | 16-bit Unicode character          |
+| **boolean**    | 1               | `true` or `false`                              | Represents a boolean value        |
 
