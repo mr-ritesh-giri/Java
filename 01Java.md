@@ -114,3 +114,14 @@ Java reduces low-level complexities by handling memory automatically through Gar
 
 ## Summary
 Java reduces low-level complexities by handling memory automatically through Garbage Collection, restricting direct memory access, and preventing common pitfalls like memory leaks, buffer overflows, and pointer mismanagement. This allows developers to focus more on logic rather than worrying about memory management errors.
+
+### Throughput
+In the context of Java Garbage Collection, Throughput refers to the percentage of time the application spends executing actual work (like processing requests, calculations, etc.) versus the time spent on Garbage Collection (GC) tasks.
+
+Formula for Throughput:
+
+**Throughput** =_TotalApplicationExecutionTime_ / _TotalExecutionTime_ + _GCTime_ * **100**
+
+### Trade-off of High Throughput GC:
+- It reduces GC pauses but may cause longer individual stop-the-world pauses.
+- Best for applications where latency is not a critical factor, such as batch processing.
