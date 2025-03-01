@@ -32,5 +32,6 @@ class DataTypes{
         System.out.println("Character: " + car);
         System.out.println("Name: " + name);
         System.out.println("Is present: " + isPresent);
+        System.out.println("Is present: " + isAbsent);
     }
 }
